@@ -6,7 +6,7 @@
 
 
 - 💻 Software Engineer Jr.
-- 📚 I’m currently learning about game development and back-end architecture using C++, C# & GO
+- 📚 I’m currently learning about game development and back-end architecture using C++ & C#
 
 
 ## Tech :
