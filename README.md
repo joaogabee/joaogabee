@@ -6,7 +6,7 @@
 
 
 - 💻 Software Engineer Jr.
-- 📚 I’m currently learning about back-end dev. using C++ & C#
+- 📚 I’m currently learning about back-end dev. using C++, C#, GO & Rust
 
 
 ## Tech :
